@@ -5,6 +5,7 @@
 
 ## Test query
 
+- It's test
 
 - [ ] [[pages/Dmitry Korzhov|Dmitry Korzhov]] please read article about may be it will give you some ideas about publishing. [[pages/Obsidian Publish|Obsidian Publish]] [due:: [[pages/2022-08-22|2022-08-22]]]
 - [ ] [[pages/Dmitry Korzhov|Dmitry Korzhov]] please look at this video at some time. it is interesting approach to KM but as [[pages/VS code extenshion|VS code extenshion]]  [due:: [[pages/2022-08-22|2022-08-22]]]
